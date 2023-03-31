@@ -1,0 +1,29 @@
+.course-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding-top: 50px;
+  list-style-type: none;
+}
+
+.each-item {
+  display: flex;
+  flex-direction: row;
+  padding: 15px;
+  margin: 20px;
+}
+
+.logo-image {
+  width: 100px;
+  height: 100px;
+}
+
+.text {
+  font-size: 24px;
+  margin: 15px;
+  font-weight: bold;
+  color: #475569;
+}
+.link-item {
+  text-decoration: none;
+}
